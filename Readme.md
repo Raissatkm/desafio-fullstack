@@ -8,7 +8,7 @@ O projeto foi desenvolvido com **React no frontend**, **Node.js e Express no bac
 
 ## 🎥 Demonstração
 
-![Demonstração do projeto](./demo.gif)
+![Demonstração do projeto](demo.gif)
 
 ## 🚀 Tecnologias utilizadas
 
